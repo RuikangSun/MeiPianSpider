@@ -5,9 +5,13 @@
 * 仅需修改目标地址开箱即用（默认爬取爬虫作者自拍照）
 * 可以用于爬取小姐姐照片
 * 提供Jupyter版本（略有差异），用于教学与练习
-* V0.1 发行版本被命名为FaQNotebad++，用于表达作者对Notepad++开发者瞎JB胡扯的不满
+* v0.1 发行版本被命名为FaQNotebad++，用于表达作者对Notepad++开发者瞎JB胡扯的不满
 ## 环境要求
-> beautifulsoups4
-> requests
+```
+beautifulsoups4
+requests
+```
 ## 许可证
-> LGPLv2.1
+```
+LGPL v2.1
+```
